@@ -1,6 +1,8 @@
 # pk-music
 
 > pk音乐
+技术栈:
+vue2 + webpack2 + vuex + stylus
 
 ## Build Setup
 
